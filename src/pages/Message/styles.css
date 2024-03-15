@@ -1,0 +1,17 @@
+.message {
+  background-image: url("@/assets/Pages/SendMessage.png");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.message-container {
+  width: 50%;
+  margin-left: 2rem;
+  margin-top: 2rem;
+}
+
+.message-border {
+  border: 0.5px solid;
+}

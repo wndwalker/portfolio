@@ -1,0 +1,9 @@
+.pagination {
+  position: absolute;
+  bottom: 10%;
+  right: 5%;
+}
+
+.pagination-button {
+  width: 5vw;
+}

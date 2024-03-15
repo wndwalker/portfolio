@@ -1,0 +1,10 @@
+.landing-page {
+  background-image: url("@/assets/LandingPage/Background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.logo-center {
+  height: 100vh;
+}

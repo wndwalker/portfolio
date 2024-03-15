@@ -1,0 +1,23 @@
+.zoom {
+  background-image: url("@/assets/Pages/ZoomPage.png");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.zoom-button {
+  position: absolute;
+  top: 45%;
+  right: 6%;
+}
+
+.zoom-image {
+  height: 20vh;
+}
+
+.zoom-home-button {
+  position: absolute;
+  bottom: 15%;
+  right: 8%;
+}

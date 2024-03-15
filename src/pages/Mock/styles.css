@@ -1,0 +1,16 @@
+.mock {
+  background-image: url("@/assets/Pages/MockExam.png");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.mock-container {
+  margin-top: 2rem;
+  width: 50%;
+}
+
+.mock-button {
+  width: 10vw;
+}

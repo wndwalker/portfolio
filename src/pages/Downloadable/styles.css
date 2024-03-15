@@ -1,0 +1,15 @@
+.downloadable {
+  background-image: url("@/assets/Pages/Downloadable.png");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.downloadable-container {
+  margin-left: 2rem;
+}
+
+.downloadable-button {
+  width: 10vw;
+}

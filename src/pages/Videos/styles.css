@@ -1,0 +1,11 @@
+.videos {
+  background-image: url("@/assets/Pages/VideosOnDemand.png");
+  background-repeat: round;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 100%;
+}
+
+.videos-button {
+  width: 10vw;
+}
